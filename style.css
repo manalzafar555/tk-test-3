@@ -1,0 +1,42 @@
+/* write your CSS here */
+
+.em{
+    color:blue;
+}
+
+.logo{
+    height:50px;
+    width:50px;
+}
+
+.icon{
+    padding-top: 30px;
+    padding-left:20px;
+    width: 20%;
+    height: auto;
+}
+
+.center{
+    text-align:center;
+    color:#0066ff;
+}
+
+.form-group{
+    display:flex;
+}
+/*
+.content {
+  display: flex;
+}
+/*
+.content, img{
+  display:inline-block;
+}
+/*
+.content img {
+  margin-right: 10px;
+  display: block;
+}
+
+.content h4,
+.content p {margin: 0;}
